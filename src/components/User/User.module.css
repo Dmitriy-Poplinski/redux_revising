@@ -1,0 +1,10 @@
+.comment_name {
+    font-size: 15px;
+    font-weight: bold;
+    color: red;
+  }
+  
+.comment_body {
+    font-size: 10px;
+    color: green;
+}
